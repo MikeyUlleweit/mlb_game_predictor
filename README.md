@@ -23,7 +23,13 @@ Weighted metrics from `weights.csv`:
 
 - `MLB_scraping.py`: Scrapes current team + pitcher stats and saves to CSVs
 - `predict_games.py`: Reads today's games, computes team scores, and outputs predictions
-- `weights.csv`: Stores the weight for each stat used in the model
+- `predictions.csv`: Stores the predicted winner and rating for each team for the game
+- Data:
+    - `weights.csv`: Stores the weight for each stat used in the model
+    - `game_schedule.csv`: Stores the daily mlb schedule
+    - `hitting_stats.csv`: Stores the season hitting stats for each mlb team
+    - `pitcher_stats.csv`: Stores every individual starting pitcher stat in mlb available
+    - `team_stats.csv`: Stores the weight runs allowed, runs scored, and run differential for each mlb team
 
 ## 🏁 Getting Started
 
