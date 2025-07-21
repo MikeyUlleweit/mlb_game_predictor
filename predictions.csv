@@ -1,0 +1,16 @@
+date,home_team,away_team,home_pitcher,away_pitcher,home_score,away_score,predicted_winner,pitching_stats_used,note
+2025-07-21,Cleveland Guardians,Baltimore Orioles,Tanner Bibee,Tomoyuki Sugano,-16.824,-38.275,Cleveland Guardians,True,
+2025-07-21,Pittsburgh Pirates,Detroit Tigers,Paul Skenes,Jack Flaherty,-27.578,31.125,Detroit Tigers,True,
+2025-07-21,Miami Marlins,San Diego Padres,Eury Pérez,Randy Vásquez,-20.764,6.594,San Diego Padres,False,partial
+2025-07-21,Washington Nationals,Cincinnati Reds,Jake Irvin,Brady Singer,-43.288,13.61,Cincinnati Reds,True,
+2025-07-21,Philadelphia Phillies,Boston Red Sox,Zack Wheeler,Walker Buehler,22.941,21.804,Philadelphia Phillies,False,partial
+2025-07-21,Toronto Blue Jays,New York Yankees,Kevin Gausman,Carlos Rodón,9.569,42.348,New York Yankees,True,
+2025-07-21,New York Mets,Los Angeles Angels,Kodai Senga,Tyler Anderson,14.96,-22.284,New York Mets,False,partial
+2025-07-21,Atlanta Braves,San Francisco Giants,Bryce Elder,Hayden Birdsong,0.516,3.172,San Francisco Giants,False,partial
+2025-07-21,Tampa Bay Rays,Chicago White Sox,Shane Baz,Sean Burke,26.739,-29.514,Tampa Bay Rays,False,partial
+2025-07-22,Chicago Cubs,Kansas City Royals,Ryan Brasier,Noah Cameron,46.886,-10.51,Chicago Cubs,False,partial
+2025-07-22,Texas Rangers,Athletics,Jack Leiter,Jacob Lopez,19.509,-51.54,Texas Rangers,False,partial
+2025-07-22,Colorado Rockies,St. Louis Cardinals,Austin Gomber,Michael McGreevy,-96.011,0.898,St. Louis Cardinals,False,partial
+2025-07-22,Arizona Diamondbacks,Houston Astros,Zac Gallen,Colton Gordon,7.747,22.181,Houston Astros,False,partial
+2025-07-22,Seattle Mariners,Milwaukee Brewers,George Kirby,Brandon Woodruff,11.542,32.438,Milwaukee Brewers,False,partial
+2025-07-22,Los Angeles Dodgers,Minnesota Twins,Shohei Ohtani,David Festa,24.846,-2.904,Los Angeles Dodgers,False,partial
