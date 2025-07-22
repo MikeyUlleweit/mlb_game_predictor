@@ -12,7 +12,6 @@ import requests
 from datetime import date, datetime
 
 from pybaseball import team_batting, team_pitching, pitching_stats, schedule_and_record
-import pandas as pd
 
 team_name_map = {
     "ARI": "Arizona Diamondbacks", "ATL": "Atlanta Braves", "BAL": "Baltimore Orioles", "BOS": "Boston Red Sox",
