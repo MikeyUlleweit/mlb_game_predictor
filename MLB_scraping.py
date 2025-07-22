@@ -21,7 +21,7 @@ team_name_map = {
     "MIN": "Minnesota Twins", "NYM": "New York Mets", "NYY": "New York Yankees", "OAK": "Athletics",
     "PHI": "Philadelphia Phillies", "PIT": "Pittsburgh Pirates", "SDP": "San Diego Padres", "SEA": "Seattle Mariners",
     "SFG": "San Francisco Giants", "STL": "St. Louis Cardinals", "TBR": "Tampa Bay Rays", "TEX": "Texas Rangers",
-    "TOR": "Toronto Blue Jays", "WSN": "Washington Nationals", "ATH": "Athletics"  # fallback for OAK
+    "TOR": "Toronto Blue Jays", "WSN": "Washington Nationals"
 }
 
 def build_hitting_stats_csv(season: int, output_path: str):
